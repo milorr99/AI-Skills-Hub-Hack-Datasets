@@ -1,0 +1,49 @@
+milestone_id,milestone_name,phase,subcontractor,status,planned_start,planned_finish,actual_start,actual_finish,slippage_days,float_days,predecessor_count,variance_cost_pct
+M001,Task 1,Structural,Bravo Steel,Not Started,2025-12-28,2026-01-18,,,0,-2,2,1.54
+M002,Task 2,Structural,Gamma MEP,Completed,2025-11-11,2025-11-25,2025-11-12,2025-11-25,0,2,3,-3.02
+M003,Task 3,Finishes,Alpha Civils,Not Started,2026-01-01,2026-01-22,,,0,1,0,2.87
+M004,Task 4,Groundworks,Alpha Civils,Not Started,2026-01-19,2026-01-27,,,0,4,0,9.89
+M005,Task 5,Structural,Delta Fitout,Not Started,2025-12-11,2026-01-01,,,0,-3,4,-0.68
+M006,Task 6,Groundworks,Delta Fitout,Completed,2025-10-22,2025-11-07,2025-10-24,2025-11-07,0,2,0,3.34
+M007,Task 7,MEP,Delta Fitout,In Progress,2025-11-25,2025-12-14,2025-11-27,,2,6,2,6.65
+M008,Task 8,Structural,Alpha Civils,In Progress,2025-11-29,2025-12-20,2025-11-29,,0,2,3,-3.04
+M009,Task 9,Finishes,Bravo Steel,In Progress,2025-11-20,2025-12-08,2025-11-26,,6,5,0,6.9
+M010,Task 10,Groundworks,Alpha Civils,In Progress,2025-11-21,2025-12-09,2025-11-25,,4,-1,0,-0.47
+M011,Task 11,Groundworks,Bravo Steel,In Progress,2025-11-20,2025-12-11,2025-11-23,,3,-2,3,10.96
+M012,Task 12,MEP,Gamma MEP,Completed,2025-10-31,2025-11-07,2025-10-31,2025-11-09,2,-2,3,6.59
+M013,Task 13,MEP,Bravo Steel,In Progress,2025-11-30,2025-12-24,2025-12-02,,2,1,4,1.34
+M014,Task 14,Finishes,Bravo Steel,In Progress,2025-11-25,2025-12-03,2025-11-26,,1,7,0,-0.58
+M015,Task 15,Structural,Delta Fitout,In Progress,2025-11-18,2025-11-30,2025-11-18,,0,-2,4,4.34
+M016,Task 16,Groundworks,Delta Fitout,Not Started,2026-01-05,2026-01-17,,,0,6,2,-8.42
+M017,Task 17,MEP,Gamma MEP,Not Started,2026-01-28,2026-02-13,,,0,1,1,-1.53
+M018,Task 18,Structural,Alpha Civils,Completed,2025-11-01,2025-11-19,2025-11-03,2025-11-19,0,3,3,-0.96
+M019,Task 19,Structural,Gamma MEP,Not Started,2025-12-10,2025-12-19,,,0,2,3,6.91
+M020,Task 20,MEP,Bravo Steel,Not Started,2025-12-22,2025-12-31,,,0,-2,2,1.87
+M021,Task 21,Finishes,Gamma MEP,In Progress,2025-11-29,2025-12-11,2025-11-29,,0,2,0,-1.69
+M022,Task 22,Finishes,Alpha Civils,In Progress,2025-11-25,2025-12-20,2025-11-26,,1,0,0,1.42
+M023,Task 23,Finishes,Delta Fitout,In Progress,2025-11-18,2025-12-08,2025-11-21,,3,-2,2,-7.26
+M024,Task 24,Groundworks,Bravo Steel,In Progress,2025-11-22,2025-12-16,2025-11-26,,4,2,0,9.23
+M025,Task 25,Finishes,Bravo Steel,Not Started,2025-12-29,2026-01-15,,,0,-1,3,-1.64
+M026,Task 26,Finishes,Alpha Civils,In Progress,2025-11-30,2025-12-21,2025-12-06,,6,7,2,-2.54
+M027,Task 27,Finishes,Bravo Steel,Completed,2025-11-09,2025-11-19,2025-11-11,2025-11-21,2,-3,0,4.26
+M028,Task 28,Finishes,Alpha Civils,Not Started,2026-02-03,2026-02-12,,,0,1,2,-1.28
+M029,Task 29,Finishes,Alpha Civils,In Progress,2025-11-26,2025-12-05,2025-11-30,,4,2,0,-0.23
+M030,Task 30,MEP,Delta Fitout,Not Started,2025-12-10,2025-12-25,,,0,-1,0,1.23
+M031,Task 31,MEP,Gamma MEP,Not Started,2025-12-12,2025-12-26,,,0,1,1,-1.7
+M032,Task 32,Finishes,Alpha Civils,Completed,2025-10-11,2025-10-23,2025-10-11,2025-10-23,0,1,0,2.7
+M033,Task 33,Finishes,Gamma MEP,In Progress,2025-11-28,2025-12-08,2025-11-29,,1,0,2,4.42
+M034,Task 34,Groundworks,Gamma MEP,In Progress,2025-11-20,2025-12-05,2025-11-24,,4,5,0,4.3
+M035,Task 35,Structural,Alpha Civils,Not Started,2026-01-01,2026-01-10,,,0,-2,4,2.43
+M036,Task 36,Structural,Delta Fitout,Not Started,2026-01-08,2026-01-14,,,0,1,5,-1.89
+M037,Task 37,Finishes,Delta Fitout,Not Started,2025-12-27,2026-01-06,,,0,1,2,-1.22
+M038,Task 38,MEP,Delta Fitout,Not Started,2026-01-08,2026-01-18,,,0,-2,3,-1.02
+M039,Task 39,Groundworks,Delta Fitout,Not Started,2026-01-06,2026-01-26,,,0,-2,0,5.41
+M040,Task 40,Finishes,Alpha Civils,In Progress,2025-11-26,2025-12-15,2025-11-26,,0,2,2,-1.96
+M041,Task 41,Groundworks,Gamma MEP,In Progress,2025-11-21,2025-12-03,2025-11-26,,5,1,0,-2.96
+M042,Task 42,Groundworks,Bravo Steel,Not Started,2026-02-14,2026-03-03,,,0,0,2,2.96
+M043,Task 43,Groundworks,Bravo Steel,In Progress,2025-11-27,2025-12-09,2025-11-30,,3,2,2,0.84
+M044,Task 44,MEP,Delta Fitout,Not Started,2026-01-15,2026-01-27,,,0,3,2,-1.53
+M045,Task 45,Structural,Bravo Steel,In Progress,2025-11-27,2025-12-19,2025-11-30,,3,0,3,-1.36
+M046,Task 46,Structural,Gamma MEP,In Progress,2025-11-18,2025-11-28,2025-11-18,,0,0,2,-0.98
+M047,Task 47,Finishes,Delta Fitout,In Progress,2025-11-23,2025-12-03,2025-11-25,,2,4,0,-1.02
+M048,Task 48,MEP,Gamma MEP,Completed,2025-11-01,2025-11-10,2025-11-02,2025-11-12,2,-1,5,4.33
